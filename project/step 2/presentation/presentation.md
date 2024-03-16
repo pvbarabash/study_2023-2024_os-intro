@@ -1,0 +1,113 @@
+---
+## Front matter
+lang: ru-RU
+title: Презентация индивидуального проекта
+subtitle: Этап 2
+author:
+  - Барабаш П. В.
+institute:
+  - Российский университет дружбы народов, Москва, Россия
+date: 12 марта 2024
+
+## i18n babel
+babel-lang: russian
+babel-otherlangs: english
+
+## Formatting pdf
+toc: false
+toc-title: Содержание
+slide_level: 2
+aspectratio: 169
+section-titles: true
+theme: metropolis
+header-includes:
+ - \metroset{progressbar=frametitle,sectionpage=progressbar,numbering=fraction}
+ - '\makeatletter'
+ - '\beamer@ignorenonframefalse'
+ - '\makeatother'
+ 
+ 
+## Fonts
+mainfont: PT Serif
+romanfont: PT Serif
+sansfont: PT Sans
+monofont: PT Mono
+mainfontoptions: Ligatures=TeX
+romanfontoptions: Ligatures=TeX
+sansfontoptions: Ligatures=TeX,Scale=MatchLowercase
+monofontoptions: Scale=MatchLowercase,Scale=0.9
+
+---
+
+## Докладчик
+
+:::::::::::::: {.columns align=center}
+::: {.column width="70%"}
+
+  * Барабаш Полина Витальевна
+  * студентка 1 курса, НПИбд-01-23
+  * Российский университет дружбы народов
+  * [1132231841@pfur.ru](mailto:1132231841@pfur.ru)
+
+:::
+::: {.column width="30%"}
+
+![](./image/я.png)
+
+:::
+::::::::::::::
+
+## Цели и задачи
+
+Цель: размещение на Github pages данных о себе, сделать два поста.
+
+Задачи:
+
+- Разместить нужную информацию о себе
+
+- Написать и выложить пост о прошедшей неделе
+
+- Написать и выложить пост по выбранной теме
+
+
+# Анализ и результаты выполнения второго этапа индивидуального проекта
+
+
+## Местонахождение файлов для ввода информации о владельце сайта
+
+![](./image/fig001.png)
+
+
+## Замена фотографии в файле avatar.jpg
+
+![](./image/fig002.png)
+
+
+## Вид редактированного файла с информацией о владельце сайта
+
+![](./image/fig003.png)
+
+## Вид сайта с заполненной информацией
+
+
+![](./image/fig004.png)
+
+
+## Созданная папка для поста по прошлой неделе
+
+![](./image/fig005.png)
+
+## Выложенный пост на сайте
+
+![](./image/fig006.png)
+
+
+## Выложенный пост по теме Системы контроля версий. Git.
+
+![](./image/fig007.png)
+
+## Выводы
+
+При выполнении данного этапа индивидуального проекта я приобрела практические навыки заполнения главной страницы с информацией о себе и навыки написания постов на сайт.
+
+
